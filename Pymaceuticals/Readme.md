@@ -29,7 +29,7 @@
 
 ### 3. Survival Rate During Treatment
 * Plot on percentage of mouse Survived during the treatment period, for each of the four drugs under study. 
-* The death of mouse can be attributed to the drug or to cancer. in general high survival rate means, less side effect of the drug.  
+* The death of mouse can be attributed to the drug or to cancer. in general high survival rate means, less side effect of the drug. 
 ![Survival Rate During Treatment](Images/Survival_Rate_During_Treatment.png)
 
 ### 4. Summary of chaneg in Tumor Volume
@@ -42,7 +42,9 @@ Based on the data Analysis, below are the observation / findings.
 * The drug "Capomulin" shows effectiveness in reducing the tumor growth, in the 45 day period, the mouse has shown significant reduction in the tumor volume.
 * Tumor volume show little to no effect on the drugs "Infubinol, Ketapril, and Placebo".
 * The drug Capomulin shows effectiveness in reducing the spread of metastasis cancer cells.  
-* 
+* Capomulin also shows high survival compared to other drugs, with 84% over the course of 45 days. where as other drugs have a survival rate less than 50%.
+* Considering the effectivness of Capomulin against Tumor Growth, spread of Metastatic Site, and with high survival rate in the animal study, Capomulin performs better compared to the other three drugs Infubinol, Ketapril, and Placebo.
+
 ### Thank you 
 
 This work is part of the `Matplotlib Homework assignment` by `UOM Data Analysis and Visualization Bootcamp`.
