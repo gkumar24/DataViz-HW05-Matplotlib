@@ -15,7 +15,7 @@
 * Metastasis: In metastasis, cancer cells break away from where they first formed (primary cancer), travel through the blood or lymph system, and form new tumors (metastatic tumors) in other parts of the body.
 
 ## Complete Jupyter Notebook Code
-* [Code](https://github.com/gkumar24/DataViz-HW05-Matplotlib/blob/master/Pymaceuticals/pymaceuticals.ipynb)
+* [Matplotlib Code](/pymaceuticals.ipynb)
 
 ### 1. Tumor Response to Treatment
 * Plot on change in Tumor Volume during the treatment period, for each of the four drugs under study.
@@ -43,6 +43,7 @@ Based on the data Analysis, below are the observation / findings.
 * Tumor volume show little to no effect on the drugs "Infubinol, Ketapril, and Placebo".
 * The drug Capomulin shows effectiveness in reducing the spread of metastasis cancer cells.  
 * Capomulin also shows high survival compared to other drugs, with 84% over the course of 45 days. where as other drugs have a survival rate less than 50%.
+* Also standard error for Capomulin is low on each of the graph, shows its closerness to population.  
 * Considering the effectivness of Capomulin against Tumor Growth, spread of Metastatic Site, and with high survival rate in the animal study, Capomulin performs better compared to the other three drugs Infubinol, Ketapril, and Placebo.
 
 ### Thank you 
