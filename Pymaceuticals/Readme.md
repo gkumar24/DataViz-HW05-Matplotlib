@@ -25,15 +25,18 @@
 ### 2. Metastatic Response to Treatment
 * Plot on spread of Cancer Cells (Metastatic Sites) during the treatment period, for each of the four drugs under study. 
 * reduction in spread can be correlated to the effectiveness of the Drug. 
+
 ![Metastatic Response to Treatment](Images/Metastatic_Spread_During_Treatment.png)
 
 ### 3. Survival Rate During Treatment
 * Plot on percentage of mouse Survived during the treatment period, for each of the four drugs under study. 
 * The death of mouse can be attributed to the drug or to cancer. in general high survival rate means, less side effect of the drug. 
+
 ![Survival Rate During Treatment](Images/Survival_Rate_During_Treatment.png)
 
 ### 4. Summary of chaneg in Tumor Volume
 * Change in Tumor Volume during the treatment period, for each of the four drugs under study. reduction in Tumor Volume can be correlated to the effectiveness of the Drug. 
+
 ![Summary of chaneg in Tumor Volume](Images/Summary_Tumor_Change_Pct.png)
 
 
